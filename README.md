@@ -49,9 +49,9 @@ Machine Learning Engineer and blockchain enthusiast who loves diving deep into A
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
 ### Blockchain
-![Bitcoin](https://img.shields.io/badge/-Bitcoin-F7931E?style=flat-square&logo=bitcoin&logoColor=white)
-![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
-![Web3](https://img.shields.io/badge/-Web3-F16822?style=flat-square&logo=web3.js&logoColor=white)
+![Ergo](https://img.shields.io/badge/-Ergo-FF6600?style=flat-square&logo=blockchain&logoColor=white)
+![Scala](https://img.shields.io/badge/-Scala-DC322F?style=flat-square&logo=scala&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 
 ### Frameworks & Tools
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -65,20 +65,23 @@ Machine Learning Engineer and blockchain enthusiast who loves diving deep into A
   
 ![Marc's GitHub stats](https://github-readme-stats.vercel.app/api?username=marctheshark3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marctheshark3&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marctheshark3&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=repo1,repo2)
 
 </div>
 
-## 🏆 Featured Projects
+## 🏆 Recent Projects
 
-### 🏊‍♂️ Mining & Blockchain
-- **[Mining-Reward-Tokens](https://github.com/marctheshark3/Mining-Reward-Tokens)** - Sigmanaut Mining Pool reward distribution system
-- **[sigmanaut-mining-pool-ui](https://github.com/marctheshark3/sigmanaut-mining-pool-ui)** - Real-time mining dashboard with analytics
+### 🏊‍♂️ Blockchain & Ergo
+- **[sigmapy](https://github.com/marctheshark3/sigmapy)** - Python library for Ergo blockchain development
+- **[ergo-appkit](https://github.com/marctheshark3/ergo-appkit)** - Java/Scala toolkit for Ergo applications
+- **[mining-wave](https://github.com/marctheshark3/mining-wave)** - Mining server infrastructure project
+- **[ErgoDocsAgent](https://github.com/marctheshark3/ErgoDocsAgent)** - Documentation and development agent for Ergo
 
-### 🧠 AI & Data
-- **[SharkNet](https://github.com/The-Last-Byte-Bar/SharkNet)** - Collaborative dataset for LLM training
-- **[BLUE](https://github.com/The-Last-Byte-Bar/BLUE)** - Blockchain Language Understanding Engine
-- **[Nurse-Shark-Bot](https://github.com/The-Last-Byte-Bar/Nurse-Shark-Bot)** - AI automation and data processing bot
+### 🤖 AI & Machine Learning
+- **[FintelligenceAI](https://github.com/marctheshark3/FintelligenceAI)** - AI-powered financial intelligence platform
+- **[LLM-TK](https://github.com/marctheshark3/LLM-TK)** - Toolkit for interacting with Large Language Models
+- **[shark-explorer](https://github.com/marctheshark3/shark-explorer)** - Data exploration and analysis tool
+- **[AI-Project-Starter-Kit](https://github.com/marctheshark3/AI-Project-Starter-Kit)** - Template for AI project development
 
 ## 📈 Contribution Activity
 
@@ -110,6 +113,6 @@ Always interested in collaborating on blockchain, AI, or mining projects!
   
 *"Keep swimming through the blockchain, keep building the future!" 🦈⛓️*
 
-![Visitor Count](https://profile-counter.glitch.me/marctheshark3/count.svg)
+[![Profile Views](https://komarev.com/ghpvc/?username=marctheshark3&color=blue&style=flat)](https://github.com/marctheshark3)
 
 </div>
