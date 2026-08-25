@@ -2,7 +2,7 @@
 
 **Senior Principal AI Software Engineer.** I build agent systems that have to survive contact with real users: RAG platforms, local model serving, skills, and the hardware around them.
 
-Day job is Northrop Grumman. After hours I run a local-first lab and open the pieces that are actually portable. I write in public as [NeuralYogi](https://x.com/neuralyogi).
+I run a local-first lab and open the pieces that are actually portable. I write in public as [NeuralYogi](https://x.com/neuralyogi).
 
 ## Now
 
@@ -40,7 +40,7 @@ Orgs from that era: [@codeUTXO](https://github.com/codeUTXO) · [@The-Last-Byte-
 
 ## Stack I actually use
 
-Python · Docker · vLLM / llama.cpp · Hugging Face · RAG + MCP · Azure OpenAI (work) · OpenSCAD · C++ / ESP32
+Python · Docker · vLLM / llama.cpp · Hugging Face · RAG + MCP · OpenSCAD · C++ / ESP32
 
 ## Links
 
