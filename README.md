@@ -1,118 +1,49 @@
-# Hey there! 👋 I'm Marc The Shark
+# Marc Mailloux
 
-<div align="center">
-  
-![GitHub followers](https://img.shields.io/github/followers/marctheshark3?style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/marctheshark3?style=social)
+**Senior Principal AI Software Engineer.** I build agent systems that have to survive contact with real users: RAG platforms, local model serving, skills, and the hardware around them.
 
-</div>
+Day job is Northrop Grumman. After hours I run a local-first lab and open the pieces that are actually portable. I write in public as [NeuralYogi](https://x.com/neuralyogi).
 
-## 🦈 About Me
+## Now
 
-Machine Learning Engineer and blockchain enthusiast who loves diving deep into AI, cryptocurrency, and cutting-edge technologies. Like a shark in the digital ocean, I'm always moving forward and exploring the intersection of ML and decentralized systems!
+- Production agents (Hermes, skills, MCP, local LLM routing)
+- Hybrid RAG, evals, and internal platforms rather than chat demos
+- Hardware you can print and flash: fail-closed FDM, LED matrix
+- Local-first composition / wiki surfaces (house compiler stays private)
 
-## 🚀 What I Build
+## Public repos
 
-### 🔗 Blockchain & Crypto
-- **Mining Pool Solutions** - Sigmanaut Mining Pool infrastructure and reward systems
-- **Price Monitoring Tools** - Ergo blockchain price tracking and analysis
-- **Token Management** - Mining reward token distribution systems
+**Current**
 
-### 🤖 AI & Machine Learning
-- **LLM Training Datasets** - SharkNet: Collaborative datasets for language model training
-- **NLP Tools** - BLUE: Blockchain Language Understanding Engine
-- **AI Bots** - Nurse-Shark-Bot for automation and data processing
+- **[printables](https://github.com/marctheshark3/printables)** — Hermes FDM loop: intent → OpenSCAD or Blender → fail-closed DFM gates → P1S STL. Skill pack we actually run, not a slicer and not a dump of household parts.
+- **[rage-matrix](https://github.com/marctheshark3/rage-matrix)** — Maker LEDDisplay2. 32×9 camera into sealed tank + war sims, title cards, HTMX hub.
+- **[cyber-posture](https://github.com/marctheshark3/cyber-posture)** — portable Linux exposure scan plus host integrity / malware IoCs.
+- **[agent-body-protocol](https://github.com/marctheshark3/agent-body-protocol)** — runtime-neutral body language for coding agents.
+- **[recompose-experience](https://github.com/marctheshark3/recompose-experience)** — public UI prototype for a local-first composition layer. The house compiler and live hub are not in this repo.
 
-### 🛠️ Developer Tools
-- **Mining Dashboards** - Real-time mining pool monitoring interfaces
-- **Data Processing** - Python tools for blockchain and market analysis
-- **Open Source Libraries** - Contributing to the crypto and AI communities
+**Also useful**
 
-## 🏢 Organizations
+- **[ce-deep-agents](https://github.com/marctheshark3/ce-deep-agents)** — Compound Engineering workflows ported onto Deep Agents.
+- **[deepagents-local](https://github.com/marctheshark3/deepagents-local)** — Deep Agents CLI on local Ollama.
+- **[llm-benchmark](https://github.com/marctheshark3/llm-benchmark)** — local LLM bake-off tooling.
 
-- **[@codeUTXO](https://github.com/codeUTXO)** - Blockchain development and Ergo ecosystem tools
-- **[@The-Last-Byte-Bar](https://github.com/The-Last-Byte-Bar)** - AI/ML projects and collaborative datasets
+## Earlier: Ergo
 
-## 🛠️ Tech Stack
+I built and operated around [Sigmanaut Mining Pool](https://ergominers.com/) (dashboards, pool ops, MCP, reward tokens). That work is still public. It is not the main thread anymore.
 
-### Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+- [sigmanaut-mining-pool-ui](https://github.com/marctheshark3/sigmanaut-mining-pool-ui)
+- [ergo-mcp](https://github.com/marctheshark3/ergo-mcp)
+- [sigs-mega-core](https://github.com/marctheshark3/sigs-mega-core)
+- [Mining-Reward-Tokens](https://github.com/marctheshark3/Mining-Reward-Tokens)
 
-### ML & Data Science
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+Orgs from that era: [@codeUTXO](https://github.com/codeUTXO) · [@The-Last-Byte-Bar](https://github.com/The-Last-Byte-Bar)
 
-### Blockchain
-![Ergo](https://img.shields.io/badge/-Ergo-FF6600?style=flat-square&logo=blockchain&logoColor=white)
-![Scala](https://img.shields.io/badge/-Scala-DC322F?style=flat-square&logo=scala&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+## Stack I actually use
 
-### Frameworks & Tools
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+Python · Docker · vLLM / llama.cpp · Hugging Face · RAG + MCP · Azure OpenAI (work) · OpenSCAD · C++ / ESP32
 
-## 📊 GitHub Stats
+## Links
 
-<div align="center">
-  
-![Marc's GitHub stats](https://github-readme-stats.vercel.app/api?username=marctheshark3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+[X @neuralyogi](https://x.com/neuralyogi) · [neuralyogi.com](https://neuralyogi.com) · [email](mailto:marctheshark333@gmail.com)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marctheshark3&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=repo1,repo2)
-
-</div>
-
-## 🏆 Recent Projects
-
-### 🏊‍♂️ Blockchain & Ergo
-- **[sigmapy](https://github.com/marctheshark3/sigmapy)** - Python library for Ergo blockchain development
-- **[ergo-appkit](https://github.com/marctheshark3/ergo-appkit)** - Java/Scala toolkit for Ergo applications
-- **[mining-wave](https://github.com/marctheshark3/mining-wave)** - Mining server infrastructure project
-- **[ErgoDocsAgent](https://github.com/marctheshark3/ErgoDocsAgent)** - Documentation and development agent for Ergo
-
-### 🤖 AI & Machine Learning
-- **[FintelligenceAI](https://github.com/marctheshark3/FintelligenceAI)** - AI-powered financial intelligence platform
-- **[LLM-TK](https://github.com/marctheshark3/LLM-TK)** - Toolkit for interacting with Large Language Models
-- **[shark-explorer](https://github.com/marctheshark3/shark-explorer)** - Data exploration and analysis tool
-- **[AI-Project-Starter-Kit](https://github.com/marctheshark3/AI-Project-Starter-Kit)** - Template for AI project development
-
-## 📈 Contribution Activity
-
-<div align="center">
-  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=marctheshark3&theme=tokyo-night&hide_border=true)
-
-</div>
-
-## 🔭 Current Focus
-
-- 🏗️ Building scalable mining pool infrastructure
-- 🤖 Developing AI tools for blockchain analysis
-- 📊 Creating collaborative ML datasets
-- 🦈 Contributing to Ergo ecosystem projects
-- 🔬 Exploring intersection of AI and DeFi
-
-## 💬 Let's Connect!
-
-Always interested in collaborating on blockchain, AI, or mining projects!
-
-[![X (Twitter)](https://img.shields.io/badge/-@neuralyogi-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://x.com/neuralyogi)
-[![Email](https://img.shields.io/badge/-marctheshark333@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:marctheshark333@gmail.com)
-[![GitHub](https://img.shields.io/badge/-@marctheshark3-181717?style=flat-square&logo=github)](https://github.com/marctheshark3)
-
----
-
-<div align="center">
-  
-*"Keep swimming through the blockchain, keep building the future!" 🦈⛓️*
-
-[![Profile Views](https://komarev.com/ghpvc/?username=marctheshark3&color=blue&style=flat)](https://github.com/marctheshark3)
-
-</div>
+Tampa Bay, Florida.
