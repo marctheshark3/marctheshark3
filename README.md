@@ -42,6 +42,19 @@ Orgs from that era: [@codeUTXO](https://github.com/codeUTXO) · [@The-Last-Byte-
 
 Python · Docker · vLLM / llama.cpp · Hugging Face · RAG + MCP · OpenSCAD · C++ / ESP32
 
+## Trail
+
+Public GitHub commits over time. Not a streak badge.
+
+<div align="center">
+  <a href="https://commit-history.com/marctheshark3">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/marctheshark3?theme=dark" />
+      <img alt="Public GitHub commit history" src="https://commit-history.com/embed/marctheshark3" />
+    </picture>
+  </a>
+</div>
+
 ## Links
 
 [X @neuralyogi](https://x.com/neuralyogi) · [neuralyogi.com](https://neuralyogi.com) · [email](mailto:marctheshark333@gmail.com)
