@@ -6,23 +6,26 @@ I run a local-first lab and open the pieces that are actually portable. I write 
 
 ## Now
 
+- **Agent body + hardware** — [agent-body-protocol](https://github.com/marctheshark3/agent-body-protocol), fail-closed FDM, LED matrix
+- **Local inference** — vLLM / llama.cpp cluster over Tailscale ([lightning-compute](https://github.com/marctheshark3/lightning-compute))
 - Production agents (Hermes, skills, MCP, local LLM routing)
 - Hybrid RAG, evals, and internal platforms rather than chat demos
-- Hardware you can print and flash: fail-closed FDM, LED matrix
-- Local-first composition / wiki surfaces (house compiler stays private)
 
 ## Public repos
 
 **Current**
 
+- **[agent-body-protocol](https://github.com/marctheshark3/agent-body-protocol)** — runtime-neutral body language for coding agents on Autonomous Lamp.
 - **[printables](https://github.com/marctheshark3/printables)** — Hermes FDM loop: intent → OpenSCAD or Blender → fail-closed DFM gates → P1S STL. Skill pack we actually run, not a slicer and not a dump of household parts.
+- **[lightning-compute](https://github.com/marctheshark3/lightning-compute)** — distributed GPU farm over Tailscale: LiteLLM front door, vLLM / llama.cpp backends, Hermes-ready registration.
+- **[bambu-p1s-mcp](https://github.com/marctheshark3/bambu-p1s-mcp)** — harness-agnostic MCP server for a Bambu Lab P1S on LAN (stdio + Streamable HTTP).
 - **[rage-matrix](https://github.com/marctheshark3/rage-matrix)** — Maker LEDDisplay2. 32×9 camera into sealed tank + war sims, title cards, HTMX hub.
-- **[cyber-posture](https://github.com/marctheshark3/cyber-posture)** — portable Linux exposure scan plus host integrity / malware IoCs.
-- **[agent-body-protocol](https://github.com/marctheshark3/agent-body-protocol)** — runtime-neutral body language for coding agents.
-- **[recompose-experience](https://github.com/marctheshark3/recompose-experience)** — public UI prototype for a local-first composition layer. The house compiler and live hub are not in this repo.
+- **[captain-skills](https://github.com/marctheshark3/captain-skills)** — OpenCode skills for captaining a coding agent (navigator, order gate, miss-hunt, bloat-cut).
 
 **Also useful**
 
+- **[cyber-posture](https://github.com/marctheshark3/cyber-posture)** — portable Linux exposure scan plus host integrity / malware IoCs.
+- **[recompose-experience](https://github.com/marctheshark3/recompose-experience)** — public UI prototype for a local-first composition layer. The house compiler and live hub are not in this repo.
 - **[ce-deep-agents](https://github.com/marctheshark3/ce-deep-agents)** — Compound Engineering workflows ported onto Deep Agents.
 - **[deepagents-local](https://github.com/marctheshark3/deepagents-local)** — Deep Agents CLI on local Ollama.
 - **[llm-benchmark](https://github.com/marctheshark3/llm-benchmark)** — local LLM bake-off tooling.
@@ -59,4 +62,4 @@ Public GitHub commits over time. Not a streak badge.
 
 [X @neuralyogi](https://x.com/neuralyogi) · [neuralyogi.com](https://neuralyogi.com) · [email](mailto:marctheshark333@gmail.com)
 
-Tampa Bay, Florida.
+Palmetto FL / Tampa Bay.
